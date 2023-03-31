@@ -121,6 +121,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/Jaaayden',
               },
+              {
+                label: 'PUc',
+                href: 'https://zengxud.top/PUC',
+              },
             ],
           },
         ],
