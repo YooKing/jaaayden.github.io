@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'PUc',
-                href: 'https://puc.zengxud.top',
+                href: 'https://zengxud.top/PUC/',
               },
             ],
           },
