@@ -1,11 +1,11 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: Coming soon!
 authors:
-  name: Gao Wei
+  name: Jayden
   title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://github.com/Jaaayden
+  image_url: https://avatars.githubusercontent.com/u/97662597
 tags: [hola, docusaurus]
 ---
 
