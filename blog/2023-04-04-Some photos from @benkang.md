@@ -8,6 +8,8 @@ tags: [Photo]
 My SONY alpha 6400 was borrowed by @benkang last sunday and the photo had been adjusted.
 **Let's see how he did!**
 
+<!--truncate-->
+
 ![20230401-DSC03660](https://upic-1309244174.cos.ap-shanghai.myqcloud.com/uPic/20230401-DSC03660.jpg)
 ![20230401-DSC03663](https://upic-1309244174.cos.ap-shanghai.myqcloud.com/uPic/20230401-DSC03663.jpg)
 ![20230401-DSC03701](https://upic-1309244174.cos.ap-shanghai.myqcloud.com/uPic/20230401-DSC03701.jpg)
