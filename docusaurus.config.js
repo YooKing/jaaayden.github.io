@@ -125,6 +125,10 @@ const config = {
                 label: 'PUc',
                 href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',
               },
+              {
+                label: 'Friends',
+                to: '/friends',
+              },
             ],
           },
         ],
