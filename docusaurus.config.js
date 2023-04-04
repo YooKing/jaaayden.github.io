@@ -70,7 +70,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'The site is under renovation',
+          'The site is under renovation and the show is about to begin.',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
