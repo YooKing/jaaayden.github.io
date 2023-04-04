@@ -29,7 +29,7 @@ MusicTag is only compatible with Windows. NO macos.
 
 - [音乐标签pc版](https://www.cnblogs.com/vinlxc/p/11347744.html)
 
-## 导入Apple Music
+## Sync with Apple Music
 
 The FLAC format can't be imported directly by Apple Music, converting to AIFF format is necessary. On macOS, XLD is a good tool.
 
