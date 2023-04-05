@@ -10,7 +10,7 @@ Let's begin.
 
 ## How to use
 
-1. Enter the website: gpt.zengxud.top
+1. Enter the website: [gpt.zengxud.top](https://gpt.zengxud.top)
 
 2. Click the setting button in the lower left corner of the interface.
 
