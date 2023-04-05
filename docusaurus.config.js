@@ -115,15 +115,24 @@ const config = {
             ],
           },
           {
+            title: 'Tools',
+            items: [
+              {
+                label: 'PUc',
+                href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',
+              },
+              {
+                label: 'JaydenGPT',
+                href: 'https://gpt.zengxud.top/',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/Jaaayden',
-              },
-              {
-                label: 'PUc',
-                href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',
               },
               {
                 label: 'Friends',
