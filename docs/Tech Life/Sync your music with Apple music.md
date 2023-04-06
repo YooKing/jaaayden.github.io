@@ -1,7 +1,10 @@
+# Sync your music with Apple Music
+
 > Before the beginning, be sure that you have subscribed the Apple Music.
 > This page was originally posted on my notion site, now I move it here.
 
 ##  Download the music
+
 ### Netease
 
 You need to be premium to download the music, some problems come with lx-music with a third-party sound source, such as you can only download the lowest sound quality version.
@@ -23,7 +26,7 @@ You can tag the music files with MusicTag. Proofread the tag carefully, it's eas
 
 :::caution
 
-MusicTag is only compatible with Windows. NO macos.
+MusicTag is **only** compatible with Windows.
 
 :::
 
@@ -31,7 +34,7 @@ MusicTag is only compatible with Windows. NO macos.
 
 ## Sync with Apple Music
 
-The FLAC format can't be imported directly by Apple Music, converting to AIFF format is necessary. On macOS, XLD is a good tool.
+The FLAC format can't be imported directly by Apple Music, so converting to AIFF format is necessary. On macOS, XLD is a good tool.
 
 - [X Lossless Decoder:Lossless audio decoder for Mac OS X](https://tmkk.undo.jp/xld/index_e.html)
 

@@ -4,7 +4,7 @@
 
 ## Why did I deploy it?
 
-In 2023, it's a pity for the Chinese because of the unaccessible to ChatGPT due to the **network issue**. So I deploy the **JaydenGPT** for my friends. More importantly, it may be **faster** than the ChatGPT based on the web, and it's more **easy** to use, I promise.
+In 2023, it's a pity for the Chinese because of the unaccessible to ChatGPT due to the **network issue**. So I deploy the **JaydenGPT** for my friends. More importantly, it may be **faster** than the ChatGPT based on the web, and it's **easier** to use, I promise.
 
 Let's begin.
 
@@ -16,7 +16,7 @@ Let's begin.
 
 3. Type 'JaydenGPT' into the 'Access Code' Input box.
 
-   > I know it will be a little troublesome but I believe it's a necessary steps to protect my website and you experience in JaydenGPT. Thanks for your understanding.
+   > I know it will be a little troublesome but I believe it's a necessary step to protect my website and your experience in JaydenGPT. Thanks for your understanding.
 
 4. Enjoy it.
 
