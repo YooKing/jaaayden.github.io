@@ -90,14 +90,9 @@ const config = {
             position: 'right',
             label: 'Tools',
             items:[
-              {
-                label: 'JaydenGPT',
-                href: 'https://gpt.zengxud.top/',
-              },
-              {
-                label: 'PUc',
-                href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',
-              },
+              {label: 'JaydenGPT', href: 'https://gpt.zengxud.top/',},
+              {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
+              {label: 'RssHub', href: 'https://rss.zengxud.top/',},
             ]
           },
         ],
