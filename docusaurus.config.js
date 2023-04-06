@@ -91,8 +91,8 @@ const config = {
             label: 'Tools',
             items:[
               {label: 'JaydenGPT', href: 'https://gpt.zengxud.top/',},
-              {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
               {label: 'RssHub', href: 'https://rss.zengxud.top/',},
+              {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
             ]
           },
         ],
@@ -110,8 +110,9 @@ const config = {
           {
             title: 'Tools',
             items: [
-              {label: 'GitHub', href: 'https://github.com/Jaaayden',},
-              {label: 'Friends', to: '/friends',},
+              {label: 'JaydenGPT', href: 'https://gpt.zengxud.top/',},
+              {label: 'RssHub', href: 'https://rss.zengxud.top/',},
+              {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
             ],
           },
           {
