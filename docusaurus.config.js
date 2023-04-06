@@ -64,7 +64,7 @@ const config = {
     ({
       colorMode: {
         defaultMode: 'light',
-        disableSwitch: false,
+        disableSwitch: true,
         respectPrefersColorScheme: false,
       },
       announcementBar: {
@@ -76,7 +76,7 @@ const config = {
         isCloseable: true,
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/favicon.png',
       navbar: {
         title: 'Jayden',
         logo: {
@@ -84,17 +84,21 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {to: '/blog', label: 'Blog', position: 'right'},
+          {type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'right', label: 'Docs',},
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/Jaaayden',
-            label: 'GitHub',
             position: 'right',
+            label: 'Tools',
+            items:[
+              {
+                label: 'JaydenGPT',
+                href: 'https://gpt.zengxud.top/',
+              },
+              {
+                label: 'PUc',
+                href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',
+              },
+            ]
           },
         ],
       },
@@ -104,40 +108,22 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Docs',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              {label: 'Docs', to: '/docs/intro',},
+              {label: 'Blog', to: '/blog',},
             ],
           },
           {
             title: 'Tools',
             items: [
-              {
-                label: 'PUc',
-                href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',
-              },
-              {
-                label: 'JaydenGPT',
-                href: 'https://gpt.zengxud.top/',
-              },
+              {label: 'GitHub', href: 'https://github.com/Jaaayden',},
+              {label: 'Friends', to: '/friends',},
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Jaaayden',
-              },
-              {
-                label: 'Friends',
-                to: '/friends',
-              },
+              {label: 'GitHub', href: 'https://github.com/Jaaayden',},
+              {label: 'Friends', to: '/friends',},
             ],
           },
         ],
