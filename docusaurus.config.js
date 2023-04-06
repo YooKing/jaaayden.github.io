@@ -70,7 +70,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'The site is under renovation and the show is about to begin.',
+          '<a target="_blank" rel="noopener noreferrer" href="https://zengxud.top/docs/TechLife/2023-04-05-JaydenGPT">JaydenGPT</a> and <a target="_blank" rel="noopener noreferrer" href="https://zengxud.top/docs/TechLife/2023-04-06-RSSHub">self-host RSSHub</a> is avaliable.',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
@@ -91,7 +91,7 @@ const config = {
             label: 'Tools',
             items:[
               {label: 'JaydenGPT', href: 'https://gpt.zengxud.top/',},
-              {label: 'RssHub', href: 'https://rss.zengxud.top/',},
+              {label: 'RSSHub', href: 'https://rss.zengxud.top/',},
               {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
             ]
           },
@@ -111,7 +111,7 @@ const config = {
             title: 'Tools',
             items: [
               {label: 'JaydenGPT', href: 'https://gpt.zengxud.top/',},
-              {label: 'RssHub', href: 'https://rss.zengxud.top/',},
+              {label: 'RSSHub', href: 'https://rss.zengxud.top/',},
               {label: 'PUc', href: 'https://zengxud.top/Propagation-of-Uncertainty-Calculator/',},
             ],
           },
