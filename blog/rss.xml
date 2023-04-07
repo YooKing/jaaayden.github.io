@@ -4,10 +4,20 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Thu, 06 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Time to Comment]]></title>
+            <link>https://zengxud.top/blog/Time to Comment</link>
+            <guid>https://zengxud.top/blog/Time to Comment</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The comment function of this website is opened.]]></description>
+            <content:encoded><![CDATA[<p>The <strong>comment</strong> function of this website is opened. </p><p>It's enormous progress for this website. You can talk to me in the comments easily instead of sending me an email if you have a GitHub account.</p><p><strong>Try it out in the comments below！</strong></p>]]></content:encoded>
+            <category>Photo</category>
+            <category>Delicacy</category>
+        </item>
         <item>
             <title><![CDATA[King of Barbecue from Xinjiang]]></title>
             <link>https://zengxud.top/blog/King of Barbecue from Xinjiang</link>
