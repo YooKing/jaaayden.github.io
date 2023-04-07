@@ -2,6 +2,7 @@
 slug: King of Barbecue from Xinjiang
 title: King of Barbecue from Xinjiang
 authors: Jayden
+enableComments: true # for Gisqus
 tags: [Photo, Delicacy]
 ---
 

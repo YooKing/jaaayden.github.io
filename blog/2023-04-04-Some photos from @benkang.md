@@ -2,6 +2,7 @@
 slug: Some photos from @benkang
 title: Some photos from @benkang
 authors: Jayden
+enableComments: true # for Gisqus
 tags: [Photo]
 ---
 
