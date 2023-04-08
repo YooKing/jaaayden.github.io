@@ -4,10 +4,20 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Fri, 07 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Arc browser]]></title>
+            <link>https://zengxud.top/blog/Arc browser</link>
+            <guid>https://zengxud.top/blog/Arc browser</guid>
+            <pubDate>Sat, 08 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[It seems that the keychain still can't be synced in Chrome for macOS.]]></description>
+            <content:encoded><![CDATA[<p>It seems that the keychain still can't be synced in Chrome for macOS.</p><p>Otherwise, the Arc browser will be a nice alternative to Safari.</p><p>But there still exists some problems:</p><ul><li>The pinned tabs in the Arc browser replace the bookmarks in general browsers, what if I need the bookmark function? I think it will not be provided because of its notion to kill the traditional browsers.</li><li>Arc browser is based on the Chromium open-source project. What's the <strong>core experience</strong> difference compared with other browsers?</li><li>It's a minority‘s application, How's the <strong>stability</strong>?</li></ul><p>Anyway, I'll use it to replace Chrome for a short time, I'll answer the question in my workflows <strong>a month</strong> after.</p>]]></content:encoded>
+            <category>Application</category>
+            <category>macOS</category>
+        </item>
         <item>
             <title><![CDATA[Time to Comment]]></title>
             <link>https://zengxud.top/blog/Time to Comment</link>
