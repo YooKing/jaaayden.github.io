@@ -46,17 +46,6 @@ const config = {
             'https://github.com/Jaaayden/Jaaayden.github.io/tree/main/',
         },
         blog: {
-          feedOptions: {
-            type: 'all',
-            createFeedItems: async (params) => {
-              const {blogPosts, defaultCreateFeedItems, ...rest} = params;
-              return defaultCreateFeedItems({
-                // keep only the 10 most recent blog posts in the feed
-                blogPosts: blogPosts.filter((item, index) => index < 10),
-                ...rest,
-              });
-            },
-          },
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
