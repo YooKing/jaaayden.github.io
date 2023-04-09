@@ -60,6 +60,7 @@ const config = {
   ],
   // plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   plugins: [
+    'plugin-image-zoom',
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
