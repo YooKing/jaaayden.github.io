@@ -3,7 +3,7 @@ slug: Time to Comment
 title: Time to Comment
 authors: Jayden
 enableComments: true # for Gisqus
-tags: [Photo, Delicacy]
+tags: [Website]
 ---
 
 The **comment** function of this website is opened. 
