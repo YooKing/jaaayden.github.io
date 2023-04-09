@@ -4,10 +4,19 @@
         <title>Jayden Tseng Blog</title>
         <link>https://zengxud.top/blog</link>
         <description>Jayden Tseng Blog</description>
-        <lastBuildDate>Sat, 08 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Search & Image Zoom]]></title>
+            <link>https://zengxud.top/blog/Search &amp; Image Zoom</link>
+            <guid>https://zengxud.top/blog/Search &amp; Image Zoom</guid>
+            <pubDate>Sun, 09 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[I'm happy to tell you guys that can search and image zoom on this website is supported.]]></description>
+            <content:encoded><![CDATA[<p>I'm happy to tell you guys that can <strong>search</strong> and <strong>image zoom</strong> on this website is supported.</p>]]></content:encoded>
+            <category>Website</category>
+        </item>
         <item>
             <title><![CDATA[Arc browser]]></title>
             <link>https://zengxud.top/blog/Arc browser</link>
@@ -25,8 +34,7 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[The comment function of this website is opened.]]></description>
             <content:encoded><![CDATA[<p>The <strong>comment</strong> function of this website is opened. </p><p>It's enormous progress for this website. You can talk to me in the comments easily instead of sending me an email if you have a GitHub account.</p><p><strong>Try it out in the comments below！</strong></p>]]></content:encoded>
-            <category>Photo</category>
-            <category>Delicacy</category>
+            <category>Website</category>
         </item>
         <item>
             <title><![CDATA[King of Barbecue from Xinjiang]]></title>

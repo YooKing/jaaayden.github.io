@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-04-08T00:00:00.000Z</updated>
+    <updated>2023-04-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Search & Image Zoom]]></title>
+        <id>https://zengxud.top/blog/Search &amp; Image Zoom</id>
+        <link href="https://zengxud.top/blog/Search &amp; Image Zoom"/>
+        <updated>2023-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm happy to tell you guys that can search and image zoom on this website is supported.]]></summary>
+        <content type="html"><![CDATA[<p>I'm happy to tell you guys that can <strong>search</strong> and <strong>image zoom</strong> on this website is supported.</p>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="Website" term="Website"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arc browser]]></title>
         <id>https://zengxud.top/blog/Arc browser</id>
@@ -32,8 +45,7 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="Photo" term="Photo"/>
-        <category label="Delicacy" term="Delicacy"/>
+        <category label="Website" term="Website"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[King of Barbecue from Xinjiang]]></title>
