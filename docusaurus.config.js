@@ -58,6 +58,15 @@ const config = {
       }),
     ],
   ],
+  // plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        language: ["en", "zh"],
+      },
+    ],
+  ],
 
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
