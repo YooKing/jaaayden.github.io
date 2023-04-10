@@ -2,23 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zengxud.top/blog</id>
     <title>Jayden Tseng Blog</title>
-    <updated>2023-04-09T00:00:00.000Z</updated>
+    <updated>2023-04-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zengxud.top/blog"/>
     <subtitle>Jayden Tseng Blog</subtitle>
     <icon>https://zengxud.top/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Search & Image Zoom]]></title>
-        <id>https://zengxud.top/blog/Search &amp; Image Zoom</id>
-        <link href="https://zengxud.top/blog/Search &amp; Image Zoom"/>
-        <updated>2023-04-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm happy to tell you guys that searching and image zooming on this website is supported.]]></summary>
-        <content type="html"><![CDATA[<p>I'm happy to tell you guys that <strong>searching</strong> and <strong>image zooming</strong> on this website is supported.</p>]]></content>
+        <title type="html"><![CDATA[Lerner Symposium by George Fu Gao]]></title>
+        <id>https://zengxud.top/blog/Lerner Symposium by George Fu Gao</id>
+        <link href="https://zengxud.top/blog/Lerner Symposium by George Fu Gao"/>
+        <updated>2023-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nice speak from George Fu Gao.]]></summary>
+        <content type="html"><![CDATA[<p>Nice speak from <strong>George Fu Gao</strong>.</p><p>Honestly, Dr.Gao's English pronunciation and appeal are both good. Although the time of this event is not very friendly to me, it's still a perfect experience.</p><p>Dr.Gao is very popular these days because his <a href="https://doi.org/10.1038/s41586-023-06043-2" target="_blank" rel="noopener noreferrer">nature article</a> provides information about the distribution and prevalence of SARS-CoV-2 in the Huanan Seafood Market during the early stages of the COVID-19 outbreak, in brief, there is no direct evidence to prove that the SARS-CoV-2 comes from the animal.  </p><p>Aside from that, I would like to share with you guys that the saying by LuXun cited by Dr.Gao is:</p><blockquote><p>"Wasting time is murder."</p></blockquote><p><strong>We share the same aspiration.</strong></p><p><img loading="lazy" src="https://upic-1309244174.cos.ap-shanghai.myqcloud.com/uPic/IMG_1977.jpeg" alt="IMG_1977" class="img_ev3q"></p>]]></content>
         <author>
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="Website" term="Website"/>
+        <category label="academic" term="academic"/>
+        <category label="event" term="event"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search & Image Zoom]]></title>
+        <id>https://zengxud.top/blog/Search &amp; Image Zoom</id>
+        <link href="https://zengxud.top/blog/Search &amp; Image Zoom"/>
+        <updated>2023-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm happy to tell you guys that searching and image zooming on this website are supported.]]></summary>
+        <content type="html"><![CDATA[<p>I'm happy to tell you guys that <strong>searching</strong> and <strong>image zooming</strong> on this website are supported.</p>]]></content>
+        <author>
+            <name>Jayden</name>
+            <uri>https://github.com/Jaaayden</uri>
+        </author>
+        <category label="website" term="website"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arc browser]]></title>
