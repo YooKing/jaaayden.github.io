@@ -31,7 +31,7 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="Application" term="Application"/>
+        <category label="application" term="application"/>
         <category label="macOS" term="macOS"/>
     </entry>
     <entry>
@@ -45,7 +45,7 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="Website" term="Website"/>
+        <category label="website" term="website"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[King of Barbecue from Xinjiang]]></title>
@@ -59,8 +59,8 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="Photo" term="Photo"/>
-        <category label="Delicacy" term="Delicacy"/>
+        <category label="photo" term="photo"/>
+        <category label="delicacy" term="delicacy"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Some photos from @benkang]]></title>
@@ -79,7 +79,7 @@
             <name>Jayden</name>
             <uri>https://github.com/Jaaayden</uri>
         </author>
-        <category label="Photo" term="Photo"/>
+        <category label="photo" term="photo"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hi!]]></title>
