@@ -3,7 +3,7 @@ slug: Some photos from @benkang
 title: Some photos from @benkang
 authors: Jayden
 enableComments: true # for Gisqus
-tags: [Photo]
+tags: [photo]
 ---
 
 My SONY Alpha 6400 was borrowed by @benkang the last Sunday and the photo had been adjusted the day before yesterday.

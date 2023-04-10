@@ -3,7 +3,7 @@ slug: Arc browser
 title: Arc browser
 authors: Jayden
 enableComments: true # for Gisqus
-tags: [Application, macOS]
+tags: [application, macOS]
 ---
 
 It seems that the keychain still can't be synced in Chrome for macOS.
