@@ -6,4 +6,4 @@ enableComments: true # for Gisqus
 tags: [website]
 ---
 
-I'm happy to tell you guys that **searching** and **image zooming** on this website are supported.
+I'm pleased to inform you that this website supports both **searching** and **image zooming**.

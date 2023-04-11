@@ -1,20 +1,23 @@
-# Sync your music with Apple Music
+# Synchronize your music with Apple Music.
 
-> Before the beginning, be sure that you have subscribed the Apple Music.
-> This page was originally posted on my notion site, now I move it here.
+> "Before getting started, make sure you have subscribed to Apple Music. 
+> This page was originally posted on my Notion site and has now been moved here."
 
 ##  Download the music
 
 ### Netease
 
-You need to be premium to download the music, some problems come with lx-music with a third-party sound source, such as you can only download the lowest sound quality version.
+To download the music, you must have a premium account. 
 
-And part of the music files need to be unlocked first, the tool below is good at it.
+Also you can download some musics using lx-music with a third-party sound source, however, there are some limitations. For example, you can only download the audio file in its lowest quality version.
+
+Some of the music files require unlocking before they can be accessed. The tool below is proficient in doing so.
 
 - [GitHub - unlock-music/unlock-music: Unlock encrypted music file in browser.](https://github.com/ix64/unlock-music)
 
 ### QQ Music and The Other
-Download music files with the lx-music and third-party sound sources.
+
+Download music files using lx-music and third-party sources.
 
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 
@@ -22,11 +25,11 @@ Download music files with the lx-music and third-party sound sources.
 
 ## Tag the music files.
 
-You can tag the music files with MusicTag. Proofread the tag carefully, it's easy to find wrong especially when the number of music files is large or the music is not in popular demand. 
+Use MusicTag to tag your music files. Be sure to proofread the tags carefully, as errors can be easy to miss when dealing with a large number of files or less popular music.
 
 :::caution
 
-MusicTag is **only** compatible with Windows.
+MusicTag is compatible **exclusively** with Windows.
 
 :::
 
@@ -34,11 +37,11 @@ MusicTag is **only** compatible with Windows.
 
 ## Sync with Apple Music
 
-The FLAC format can't be imported directly by Apple Music, so converting to AIFF format is necessary. On macOS, XLD is a good tool.
+To import FLAC files into Apple Music, it is necessary to convert them to AIFF format. XLD is a recommended tool for this task on macOS.
 
 - [X Lossless Decoder:Lossless audio decoder for Mac OS X](https://tmkk.undo.jp/xld/index_e.html)
 
-After importing AIFF format music files into Apple Music, synchronize with iCloud for full terminal synchronization.
+To fully synchronize your music files, import them in AIFF format into Apple Music and then sync with iCloud.
 
 ## More
 ### Analysis of DOMESTIC Music platform

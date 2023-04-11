@@ -6,8 +6,7 @@ enableComments: true # for Gisqus
 tags: [photo]
 ---
 
-My SONY Alpha 6400 was borrowed by @benkang the last Sunday and the photo had been adjusted the day before yesterday.
-**Let's see how he did!**
+Last Sunday, @benkang borrowed my SONY Alpha 6400 camera. The photo he took was adjusted **two days ago**. Let's take a look at how it turned out!
 
 ![20230401-DSC03660](https://upic-1309244174.cos.ap-shanghai.myqcloud.com/uPic/20230401-DSC03660.jpg)
 <!--truncate-->

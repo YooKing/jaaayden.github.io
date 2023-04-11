@@ -1,7 +1,7 @@
 # Hi
 
-Hi, it's Jayden here.
+Hello, this is Jayden.
 
-This section is under decoration, all kinds of contents will be add here gradually.
+This section is currently being decorated and new content will be added gradually. 
 
-> Good news: It's unnecessary to join in the waitlist.Everything you just need to do is wait.😜
+> Great news! There's no need to join the waitlist. All you have to do is wait patiently. 😜

@@ -6,16 +6,16 @@ enableComments: true # for Gisqus
 tags: [academic, event]
 ---
 
-Nice speak from **George Fu Gao**.
+George Fu Gao gave an excellent speech.
 
-Honestly, Dr.Gao's English pronunciation and appeal are both good. Although the time of this event is not very friendly to me, it's still a perfect experience.
+Dr. Gao's English pronunciation and delivery were impressive. Despite the inconvenient timing of the event, it was a valuable experience.
 
-Dr.Gao is very popular these days because his [nature article](https://doi.org/10.1038/s41586-023-06043-2) provides information about the distribution and prevalence of SARS-CoV-2 in the Huanan Seafood Market during the early stages of the COVID-19 outbreak, in brief, there is no direct evidence to prove that the SARS-CoV-2 comes from the animal.  
+Dr. Gao is highly regarded due to his recent [nature article](https://doi.org/10.1038/s41586-023-06043-2), which sheds light on the distribution and prevalence of SARS-CoV-2 in the Huanan Seafood Market during the early stages of the COVID-19 outbreak. However, no direct evidence supports that SARS-CoV-2 originated from animals.
 
-Aside from that, I would like to share with you guys that the saying by LuXun cited by Dr.Gao is:
+Furthermore, I would like to share with you all a quote by Lu Xun that Dr.Gao mentioned: 
 
-> "Wasting time is murder."
+>  "Wasting time is murder." 
 
-**We share the same aspiration.**
+This resonates with me deeply as well. **We share the same aspiration.**
 
 ![IMG_1977](https://upic-1309244174.cos.ap-shanghai.myqcloud.com/uPic/IMG_1977.jpeg)

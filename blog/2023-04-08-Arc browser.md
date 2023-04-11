@@ -6,14 +6,12 @@ enableComments: true # for Gisqus
 tags: [application, macOS]
 ---
 
-It seems that the keychain still can't be synced in Chrome for macOS.
+It appears that Chrome for macOS still cannot sync the keychain. However, the Arc browser could be a viable **alternative** to Safari. Nonetheless, there are some issues to consider:
 
-Otherwise, the Arc browser will be a nice alternative to Safari.
+- The pinned tabs in the Arc browser replace bookmarks found in other browsers. This may pose an issue if bookmarking is necessary, but it seems unlikely as this feature goes against its aim of replacing traditional browsers.
 
-But there still exists some problems:
+- As the Arc browser is based on Chromium open-source project, what sets it apart from other browsers?
 
-- The pinned tabs in the Arc browser replace the bookmarks in general browsers, what if I need the bookmark function? I think it will not be provided because of its notion to kill the traditional browsers.
-- Arc browser is based on the Chromium open-source project. What's the **core experience** difference compared with other browsers?
-- It's a minority‘s application, How's the **stability**?
+- Since it's not widely used, how **stable** is it?
 
-Anyway, I'll use it to replace Chrome for a short time, I'll answer the question in my workflows **a month** after.
+Despite these concerns, I plan to use it temporarily instead of Chrome and will provide feedback on my experience after a short time of use.

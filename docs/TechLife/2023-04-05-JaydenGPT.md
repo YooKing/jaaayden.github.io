@@ -2,28 +2,26 @@
 
 
 
-## Why did I deploy it?
+## What was the reason for my deployment??
 
-In 2023, it's a pity for the Chinese because of the unaccessible to ChatGPT due to the **network issue**. So I deploy the **JaydenGPT** for my friends. More importantly, it may be **faster** than the ChatGPT based on the web, and it's **easier** to use, I promise.
+In 2023, Chinese users were unable to access ChatGPT due to **network issues**. As a solution, I deployed **JaydenGPT** for my friends. Notably, JaydenGPT is **faster and easier** to use than ChatGPT on the web.
 
-Let's begin.
+Let's get started.
 
-## How to use
+## Quickly start
 
-1. Enter the website: [gpt.zengxud.top](https://gpt.zengxud.top)
+1. Please visit this website: [gpt.zengxud.top](https://gpt.zengxud.top)
 
-2. Click the setting button in the lower left corner of the interface.
+2. Click the "Settings" button located in the lower left corner of the interface.
 
-3. Type 'JaydenGPT' into the 'Access Code' Input box.
+3. Please enter 'JaydenGPT' in the 'Access Code' input field.
 
-   > I know it will be a little troublesome but I believe it's a necessary step to protect my website and your experience in JaydenGPT. Thanks for your understanding.
+   > I understand that this may cause some inconvenience, but I believe it is necessary to protect both my website and your experience on JaydenGPT. Thank you for your understanding.
 
 4. Enjoy it.
 
 :::tip
 
-You can adjust the language of the interface and many other options even the Avatar.😅
-
-Just Try it.
+You can customize the language of the interface, as well as other options such as your avatar. Give it a try!
 
 :::
